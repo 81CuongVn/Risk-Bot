@@ -1,0 +1,48 @@
+>North America 5
+Alaska - North West Territory, Alberta, Kamchatka
+North West Territory - Alaska, Alberta, Ontario, Greenland
+Greenland - North West Territory, Ontario, Quebec, Iceland
+Alberta - Alaska, North West Territory, Ontario, Western United States
+Ontario - North West Territory, Greenland, Alberta, Quebec, Western United States, Eastern United States
+Quebec - Greenland, Ontario, Eastern United States
+Western United States - Alberta, Ontario, Eastern United States, Central America
+Eastern United States - Ontario, Quebec, Western United States, Central America
+Central America - Western United States, Eastern United States, Venezuela
+>South America 2
+Venezuela - Central America, Peru, Brazil
+Peru - Venezuela, Brazil, Argentina
+Brazil - Venezuela, Peru, Argentina, North Africa
+Argentina - Peru, Brazil
+>Europe 5
+Iceland - Greenland, Scandinavia, Great Britain
+Scandinavia - Iceland, Ukraine, Great Britain, Northern Europe
+Ukraine - Scandinavia, Northern Europe, Southern Europe, Ural, Afghanistan, Middle East
+Great Britain - Iceland, Scandinavia, Northern Europe, Western Europe
+Northern Europe - Scandinavia, Ukraine, Great Britain, Western Europe, Southern Europe
+Western Europe - Great Britain, Northern Europe, Southern Europe, North Africa
+Southern Europe - Northern Europe, Ukraine, Western Europe, North Africa, Egypt, Middle East
+>Africa 3
+North Africa - Brazil, Western Europe, Southern Europe, Egypt, East Africa, Congo
+Egypt - Southern Europe, North Africa, East Africa, Middle East
+East Africa - North Africa, Egypt, Congo, South Africa, Madagascar, Middle East
+Congo - North Africa, East Africa, South Africa
+South Africa - Congo, East Africa, Madagascar
+Madagascar - East Africa, South Africa
+>Asia 7
+Ural - Ukraine, Siberia, Afghanistan, China
+Siberia - Ural, Yakutsk, Irkutsk, Mongolia, China
+Yakutsk - Siberia, Kamchatka, Irkutsk
+Kamchatka - Alaska, Yakutsk, Irkutsk, Mongolia, Japan
+Irkutsk - Siberia, Yakutsk, Kamchatka, Mongolia
+Mongolia - Siberia, Kamchatka, Irkutsk, Japan, China
+Japan - Kamchatka, Mongolia
+Afghanistan - Ukraine, Ural, China, Middle East, India
+China - Ural, Siberia, Mongolia, Afghanistan, India, Siam
+Middle East - Ukraine, Southern Europe, Egypt, East Africa, Afghanistan, India
+India - Afghanistan, China, Middle East, Siam
+Siam - China, India, Indonesia
+>Australia 2
+Indonesia - Siam, New Guinea, Western Australia
+New Guinea - Indonesia, Western Australia, Eastern Australia
+Western Australia - Indonesia, New Guinea, Eastern Australia
+Eastern Australia - New Guinea, Western Australia
